@@ -1,0 +1,80 @@
+
+.header {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    font-family: "Urbanist-Medium";
+    src: url('C:\Users\Стелла\Desktop\черновик 2\urbanist\static\Urbanist-Medium.ttf') format(ttf);
+    height: 162px;
+    background-color: black;
+}
+
+.banner {
+    border: 1px solid red;
+    display: inline-flex;
+    justify-content: center;
+    height: 63px;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+
+.text_button {
+    border: 1px solid red;
+    width: 91px;
+    height: 27px;
+    font-size: 18px;
+}
+
+.text_banner {
+    border: 1px solid red;
+    color: white;
+    width: 363px;
+    height: 27px;
+    font-size: 18px;
+
+}
+
+
+
+.header_navigation-bar {
+    border: 1px solid red;
+    display: inline-flex;
+    justify-content: space-between;
+    height: 99px;
+    padding-left: 162px;
+    padding-right: 162px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+
+}
+
+
+.header_navigation-bar_logo {
+    border: 1px solid red;
+    width: 160px;
+    height: 48px;
+    font-size: 30px;
+
+
+}
+
+.header_navigation-bar_header-buttons {
+    border: 1px solid red;
+    width: 407px;
+    height: 55px;
+    color: white;   
+    font-size: 21px;
+}
+
+.header_navigation-bar_contact-button {
+    border: 1px solid red;
+    width: 136px;
+    height: 59px;
+    font-size: 21px;
+    
+}
